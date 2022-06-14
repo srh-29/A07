@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+	font-size: 100%;
+    width: 400px;
+    padding: 1em;
+}
+h1 {
+	font-size: 180%;
+    border: 5px dashed red  ;
+}
+#copyright {
+    font-size: 75%;
+    text-align: right;
+}
+.base_color {
+    color: blue;
+}
